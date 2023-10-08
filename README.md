@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hello World!</h1>
+
+한국인 개발자인 MaiT입니다. 학생이고, 아직 공부중입니다.
 
 <!--
 **MaiT-027/MaiT-027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
