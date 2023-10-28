@@ -13,7 +13,7 @@
 GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiT-027&theme=flag-india&show_icons=true&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact)
 
 🐱 About Me
 
