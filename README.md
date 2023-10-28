@@ -12,8 +12,11 @@
 
 ### Github 현황
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiT-027&theme=flag-india&show_icons=true&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact)
+![MaiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiT-027&theme=ayu-mirage&show_icons=true&hide=stars&hide_rank=true&count_private=true&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact&theme=ayu-mirage)
+
+### 현재 작업중인 프로젝트
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2F2B&repo=HoopSquad-Backend&theme=ayu-mirage)](https://github.com/2F2B/HoopSquad-Backend)
 
 ### 연락처
 
