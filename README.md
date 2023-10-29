@@ -1,4 +1,4 @@
-# console.log("Hello, World!")
+# console.log("Hello, Github!")
 
 대한민국에서 컴퓨터공학과로 프로그래밍 공부중인 MaiT입니다.
 
