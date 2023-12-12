@@ -2,12 +2,16 @@
 
 대한민국에서 컴퓨터공학과로 프로그래밍 공부중인 MaiT입니다.
 
+
+### 주력 언어
+[<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>](https://www.ecma-international.org/)
+
 ### FE 기술 스택
 
 [<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>](https://svelte.dev/) [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](https://legacy.reactjs.org/) [<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>](https://vuejs.org/)
 
 ### BE 기술 스택
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>](https://www.ecma-international.org/) [<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>](https://nodejs.org/) [<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>](https://expressjs.com/) [<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>](https://nestjs.com/) 
+[<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>](https://nodejs.org/) [<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>](https://expressjs.com/) [<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>](https://nestjs.com/) 
 
 ### 기타 기술 스택
 [<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>](https://discord.com/developers) [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](https://www.mysql.com/)
