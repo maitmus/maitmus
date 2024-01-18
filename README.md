@@ -26,9 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact&theme=ayu-mirage)](https://github.com/MaiT-027)
 
 ### 현재 작업중인 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2F2B&repo=HoopSquad-Backend&theme=ayu-mirage)](https://github.com/2F2B/HoopSquad-Backend) 
-
-[![Deploy to EC2](https://github.com/2F2B/HoopSquad-Backend/actions/workflows/deploy-to-ec2.yml/badge.svg)](https://github.com/2F2B/HoopSquad-Backend/actions/workflows/deploy-to-ec2.yml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhythm-gamers&repo=rg-back&theme=ayu-mirage)](https://github.com/rhythm-gamers/rg-back) 
 
 ### 연락처
 
