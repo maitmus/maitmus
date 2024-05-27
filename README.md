@@ -22,8 +22,8 @@
 
 ### Github 현황
 
-[![MaiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiT-027&theme=ayu-mirage&show_icons=true&hide=stars&hide_rank=true&count_private=true&line_height=24)](https://github.com/MaiT-027)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiT-027&layout=compact&theme=ayu-mirage)](https://github.com/MaiT-027)
+[![MaiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitmus&theme=ayu-mirage&show_icons=true&hide=stars&hide_rank=true&count_private=true&line_height=24)](https://github.com/maitmus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitmus&layout=compact&theme=ayu-mirage)](https://github.com/maitmus)
 
 ### 현재 작업중인 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhythm-gamers&repo=rg-back&theme=ayu-mirage)](https://github.com/rhythm-gamers/rg-back) 
