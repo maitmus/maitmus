@@ -26,7 +26,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitmus&layout=compact&theme=ayu-mirage)](https://github.com/maitmus)
 
 ### 현재 작업중인 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhythm-gamers&repo=rg-back&theme=ayu-mirage)](https://github.com/rhythm-gamers/rg-back) 
+[![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-back&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-back) 
+[![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-relay&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-relay) 
 
 ### 연락처
 
