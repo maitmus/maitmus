@@ -18,7 +18,7 @@
 
 ### 개발 환경
 
-[<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/) [<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>](https://aws.amazon.com/) [<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/) [<img src="https://img.shields.io/badge/Jetbrains-409FFF?style=flat-square&logo=jetbrains&logoColor=white"/>](https://github.com/) [<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&&logoColor=white"/>](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>](https://aws.amazon.com/) [<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>](https://www.docker.com/)
 
 ### Github 현황
 
