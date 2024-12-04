@@ -8,7 +8,7 @@
 
 ### FE 기술 스택
 
-[<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>](https://svelte.dev/) [<img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>](https://nextjs.org/) [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](https://legacy.reactjs.org/) [<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>](https://vuejs.org/) 
+[<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>](https://svelte.dev/) [<img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>](https://nextjs.org/) [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](https://react.dev/) [<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>](https://vuejs.org/) 
 
 ### BE 기술 스택
 [<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>](https://nodejs.org/) [<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>](https://expressjs.com/) [<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>](https://nestjs.com/) [<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>](https://spring.io/) 
