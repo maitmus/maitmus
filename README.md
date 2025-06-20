@@ -34,5 +34,3 @@ None
 ### 연락처
 
 [![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)<img src="https://img.shields.io/badge/maitmus-555555?style=flat-square"/>](https://twitter.com/maitmus)
-
-[![Discord Badge](https://dcbadge.vercel.app/api/shield/534651682965946399?style=flat-square)](https://discord.com/)
