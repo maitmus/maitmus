@@ -27,7 +27,8 @@
 
 ### 현재 작업중인 프로젝트
 
-None
+[![JP2C](https://github-readme-stats.vercel.app/api/pin/?username=kit-JP2C&repo=jp2c-backend&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-back) 
+[![JP2C-about](https://github-readme-stats.vercel.app/api/pin/?username=kit-JP2C&repo=jp2c-about&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-relay) 
 <!-- [![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-back&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-back) -->
 <!-- [![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-relay&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-relay) -->
 
