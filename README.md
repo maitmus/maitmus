@@ -20,18 +20,6 @@
 
 [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/) [<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/>](https://about.gitlab.com/) [<img src="https://img.shields.io/badge/Jetbrains-409FFF?style=flat-square&logo=jetbrains&logoColor=white"/>](https://www.jetbrains.com/) [<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&&logoColor=white"/>](https://code.visualstudio.com/) 
 
-### Github 현황
-
-![MaiT's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitmus&theme=ayu-mirage&show_icons=true&hide=stars&hide_rank=true&count_private=true&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitmus&layout=compact&theme=ayu-mirage)
-
-### 현재 작업중인 프로젝트
-
-![JP2C](https://github-readme-stats.vercel.app/api/pin/?username=kit-JP2C&repo=jp2c-backend&theme=ayu-mirage)
-![JP2C-about](https://github-readme-stats.vercel.app/api/pin/?username=kit-JP2C&repo=jp2c-about&theme=ayu-mirage)
-<!-- [![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-back&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-back) -->
-<!-- [![Park-Charge-Go](https://github-readme-stats.vercel.app/api/pin/?username=SPACE-AXE&repo=pcg-relay&theme=ayu-mirage)](https://github.com/SPACE-AXE/pcg-relay) -->
-
 ### 연락처
 
 [![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)<img src="https://img.shields.io/badge/maitmus-555555?style=flat-square"/>](https://twitter.com/maitmus)
